@@ -1,0 +1,28 @@
+{
+  "name": "simple-restful-api",
+  "version": "1.0.0",
+  "description": "a simple restful api using express js framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alvinmatias69/simple-restful-api-express.git"
+  },
+  "keywords": [
+    "restful"
+  ],
+  "author": "Mat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alvinmatias69/simple-restful-api-express/issues"
+  },
+  "homepage": "https://github.com/alvinmatias69/simple-restful-api-express#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "mysql": "^2.12.0"
+  }
+}
